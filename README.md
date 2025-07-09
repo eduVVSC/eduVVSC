@@ -40,3 +40,4 @@ and studying at [42 Porto](https://www.42porto.com/pt/#about-42).
 
 
 ## 📫 How to reach me: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/eduardo-vieira-vasconcelos-88580b2a5/)
